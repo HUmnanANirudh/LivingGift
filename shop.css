@@ -1,0 +1,337 @@
+
+  ::-webkit-scrollbar {
+    display: none;
+}
+html,body{
+    margin:0;
+    padding: 0;
+    height: 100%;
+}
+.top {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://lukani-demo.myshopify.com/cdn/shop/files/slider1.jpg?v=1614290005');
+    background-size: cover; 
+    background-position: center;
+    height: 80vh; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: flex-start; 
+    font-family: sans-serif;
+}
+.Discount{
+    padding-left: 40px;
+    animation: slideIn 1s ease-out forwards; 
+}
+.Discount h1{
+    font-size: 40px;
+    color:#323232;
+
+}
+.Discount p{
+    font-size: 24px;
+}
+.Discount button{
+    padding: 15px 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: whitesmoke;
+    transition:background-color 0.5s ease-in-out,transform 0.5s ease-in-out;
+}
+.Discount button:hover{
+    background-color:#79A206 ;
+    transform: scale(1.1);
+}
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100vw);  
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0); 
+        opacity: 1;
+    }
+}
+.container {
+    display: flex;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 20px;
+    /* border-bottom: 1px solid #ddd;
+    background-color: #fff; */
+}
+.home{
+    padding-left: 40px;
+}
+.home a {
+    font-size: 32px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+.topbox {
+    display: flex;
+    flex:1;
+    justify-content:space-evenly;
+    align-items: center;
+    /* gap:4rem;  */
+    /* padding-left:200px; */
+    padding:10px 0px 10px 200px
+    /* border:2px solid rgb(118, 118, 118); */
+}
+.box{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    gap:4rem;
+    padding:5px 10px;
+    border:1px solid rgb(118, 118, 118);
+}
+.buttons button{
+    background-color: transparent;
+    border:none;
+    transition: transform 0.2s ease-in-out;
+    cursor:pointer
+}
+.buttons button:hover{
+    transform: scale(1.05);
+}
+
+.sort select{
+    padding: 5px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    border:1px solid rgb(118, 118, 118);
+    outline:none;
+}
+.sort label {
+    margin-right: 10px;
+}
+.sidebar {
+    width: 25%;
+    background-color: #fff;
+    padding: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+.card{
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    /* padding: 20px; */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Open Sans';
+}
+.card h3{
+    /* background-color: #E5E5E5;
+    color: #333; */
+    /* padding: 5px 12px; */
+    font-size: 18px;
+    font-weight: 500;
+}
+.head{
+    background-color: #E5E5E5;;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+.categories li {
+    list-style: none;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.categories li:hover{
+    color:#4CC650;
+}
+.filter{
+    margin-top: 20px;
+}
+.content{
+    padding:10px 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.accent{
+    accent-color:#438E41;
+    cursor: pointer;
+}
+.filter1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    gap:2rem;
+}
+.filter1 button{
+    padding: 5px 5px;
+    background-color: #438E41;
+    color: white;
+    border:none
+}
+.grid {
+    display: grid;
+    gap: 20px;
+    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
+/* .grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
+.grid-4 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+
+.grid-1 {
+    grid-template-columns: 1fr;
+} */
+
+.item {
+    flex: 1;
+    max-width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+.item:hover{
+    transform: scale(1.02);
+}
+.item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+} 
+.item img:hover {
+    transform: scale(1.05);
+}
+.btn {
+    margin-top: 10px;
+    padding: 10px 50px;
+    background-color: #1C6644;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.next{
+    margin:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.next ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.next button{
+        /* margin: 10px; */
+        padding:10px 20px;
+        border: 1px solid #1C6644;
+        background-color: transparent;
+        color:#1C6644;
+        cursor: pointer;
+        transition:background-color 0.3s ease-in-out, color 0.3s ease-in-out ;
+}
+.next button:hover{
+   background-color: #1C6644;
+   color:white
+}
+.marquee {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background-color:#114C36;
+    height: 70px;
+}
+
+.marquee-element ul{
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    padding: 0; 
+    margin: 0; 
+    gap:2rem;
+}
+.mark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem; 
+}
+.mark p{
+    color:#E4B3D6;
+    font-size:21px;
+}
+.mark img {
+    height: 20px;
+    width: auto;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #21543D;
+    margin: 0;
+    padding: 0;
+}
+.text2{
+    display: flex;
+    justify-content: space-between;
+    color:whitesmoke;
+}
+.About{
+    padding:50px 30px;
+    width:500px;
+    text-align:start;
+    overflow-wrap: break-word;
+}
+.quick{
+    padding:50px 30px;
+}
+.quick ul{
+    list-style: none;
+    line-height: 1.5rem;
+    padding: 0;
+    margin: 0;
+}
+.quick ul a{
+    text-decoration: none;
+    color:whitesmoke;
+}
+/* .quick ul li{
+    /* font-size: small; */
+
+
+.Get{
+    padding:50px 30px
+}
+.Get a{
+    color:white;
+}
