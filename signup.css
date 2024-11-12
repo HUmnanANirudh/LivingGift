@@ -113,3 +113,20 @@ body {
 .terms a {
   color: black;
 }
+.error {
+  color: red;
+  font-size: 0.8em;
+  margin-top: 5px;
+  display: none;
+}
+
+.success-message {
+  color: green;
+  display: none;
+  text-align: center;
+  margin-top: 10px;
+}
+
+input.invalid {
+  border-color: red;
+}

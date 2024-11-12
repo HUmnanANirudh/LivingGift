@@ -1,0 +1,1813 @@
+[
+  {
+    "name": "Brazilian Wood Plant",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_f3594aff-28ef-447a-92e2-320c5ae5b937.jpg?v=1725010182&width=1100",
+    "category": "indoor",
+    "description": "The Brazilian Wood Plant is an ornamental indoor plant with striking foliage. It is perfect for adding greenery to any room and is easy to care for."
+  },
+  {
+    "name": "Peace Lily Plant",
+    "price": 299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Smallpot-164.jpg?v=1704867612&width=1100",
+    "category": "indoor",
+    "description": "Peace Lily is a popular houseplant known for its air-purifying qualities and elegant white flowers. It thrives in low-light conditions."
+  },
+  {
+    "name": "Monstera Deliciosa Plant",
+    "price": 1049,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/2_430a864d-f4ed-46d0-b5e6-ff0d55c422db.jpg?v=1706608270&width=1100",
+    "category": "indoor",
+    "description": "Monstera Deliciosa, also known as the Swiss cheese plant, is famous for its unique split leaves and large size. It thrives in bright, indirect light."
+  },
+  {
+    "name": "Bamboo Palm Plant",
+    "price": 399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_82942.jpg?v=1696240355&width=1100",
+    "category": "indoor",
+    "description": "The Bamboo Palm is a hardy indoor plant that can grow in low-light conditions. It's an excellent air purifier and adds a tropical feel to any space."
+  },
+  {
+    "name": "Jade Plant Mini",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Grey_f26c8dee-c8ce-4e1a-bec7-86006f560c98.jpg?v=1680418283&width=1100",
+    "category": "succulents",
+    "description": "The Jade Plant is a popular succulent with thick, fleshy leaves. It's easy to care for and symbolizes good luck and prosperity."
+  },
+  {
+    "name": "Ficus Lyrata Bambino -XL",
+    "price": 2999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/AImage_e21c5516-c7ff-4070-8739-99bf1bc71006.jpg?v=1708074927&width=1100",
+    "category": "indoor",
+    "description": "The Ficus Lyrata Bambino is a compact version of the popular fiddle-leaf fig. It has large, glossy leaves and thrives in bright indoor environments."
+  },
+  {
+    "name": "Monstera Deliciosa Plant - XL",
+    "price": 2999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-288.jpg?v=1708075048&width=1100",
+    "category": "indoor",
+    "description": "This XL Monstera Deliciosa is perfect for large spaces, bringing in a tropical vibe with its massive, unique leaves. It prefers indirect sunlight."
+  },
+  {
+    "name": "Lucky Bamboo Plant - 3 Layer",
+    "price": 399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_3.jpg?v=1682523121&width=1100",
+    "category": "indoor",
+    "description": "The Lucky Bamboo is a symbol of good fortune. It grows well in water and is an easy-to-care-for indoor plant."
+  },
+  {
+    "name": "Areca Palm Plant",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_2431.jpg?v=1692966811&width=1100",
+    "category": "indoor",
+    "description": "The Areca Palm is a beautiful indoor plant with feathery green fronds. It thrives in indirect sunlight and adds elegance to any room."
+  },
+  {
+    "name": "Aglaonema Pink Beauty Plant",
+    "price": 699,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_3263.jpg?v=1694434958&width=1100",
+    "category": "indoor",
+    "description": "Aglaonema Pink Beauty has striking pink and green leaves. It's an easy-to-care-for plant that grows well in low-light indoor conditions."
+  },
+  {
+    "name": "Snake Plant - Golden Hahnii",
+    "price": 299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-Teal_3edaf641-904e-485f-9d80-e11293f26546.jpg?v=1680435202&width=1100",
+    "category": "indoor",
+    "description": "Snake plants are low-maintenance and known for their ability to purify air. The Golden Hahnii variety has compact, variegated leaves."
+  },
+  {
+    "name": "ZZ Plant",
+    "price": 399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Yellow.jpg?v=1706609279&width=1100",
+    "category": "indoor",
+    "description": "The ZZ Plant is known for its glossy, dark green leaves and its ability to survive in low-light conditions. It's a hardy and low-maintenance plant."
+  },
+  {
+    "name": "Broken Heart Plant",
+    "price": 299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_3237_c8a9596b-b9bf-41b9-a402-e6e37fc489c9.jpg?v=1714570877&width=1100",
+    "category": "flowering",
+    "description": "The Broken Heart Plant is a beautiful flowering plant with heart-shaped leaves. It thrives in moderate sunlight and well-drained soil."
+  },
+  {
+    "name": "Peperomia Green Plant",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Mocca_0ade021a-89b8-4814-93d9-2d7381decd99.jpg?v=1693639925&width=1100",
+    "category": "indoor",
+    "description": "Peperomia is a compact, low-maintenance indoor plant with attractive, glossy leaves. It thrives in indirect light and minimal watering."
+  },
+  {
+    "name": "Anthurium Red Plant",
+    "price": 799,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_3273.jpg?v=1695228127&width=1100",
+    "category": "flowering",
+    "description": "Anthurium is a striking plant with red, heart-shaped flowers. It thrives in indoor spaces with bright, indirect light."
+  },
+  {
+    "name": "Money Plant Golden",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-PastelPink_97fc1e67-958a-4da8-98b6-31a47bdce6b7.jpg?v=1688563979&width=1100",
+    "category": "climbers",
+    "description": "The Golden Money Plant is a versatile climber known for its easy growth. It's believed to bring good fortune and is perfect for indoors."
+  },
+  {
+    "name": "Bamboo Palm XL",
+    "price": 2999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_28dac659-d2ee-40fe-b988-4b039c33eb88.jpg?v=1699285338&width=1100",
+    "category": "indoor",
+    "description": "The Bamboo Palm XL is a large, lush plant that can thrive in low-light conditions. It's perfect for large spaces and air-purification."
+  },
+  {
+    "name": "The China Doll Plant - XL",
+    "price": 2499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-025.jpg?v=1708075166&width=1100",
+    "category": "indoor",
+    "description": "The China Doll Plant is an elegant plant with shiny green leaves. It grows well in indirect light and requires moderate watering."
+  },
+  {
+    "name": "Ficus Bonsai Plant",
+    "price": 949,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_375f29d7-0539-4206-8d69-722e9e43ede0.jpg?v=1712838390&width=1100",
+    "category": "Bonsai",
+    "description": "Ficus Bonsai is a miniature tree that makes a beautiful indoor display. It requires regular pruning and is ideal for bonsai enthusiasts."
+  },
+  {
+    "name": "ZZ Plant - XL",
+    "price": 2299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-022.jpg?v=1708075287&width=1100",
+    "category": "indoor",
+    "description": "The ZZ Plant XL is a larger version of the classic ZZ plant. It has glossy green leaves and thrives in low-light conditions, making it ideal for indoors."
+  },
+  {
+    "name": "Croton Petra XL",
+    "price": 1999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_1399cb36-142f-48f7-8ac3-91448233f450.jpg?v=1699283893&width=1100",
+    "category": "indoor",
+    "description": "The Croton Petra XL features vibrant, multicolored leaves. It thrives in bright, indirect light and requires consistent watering."
+  },
+  {
+    "name": "Snake Plant - Futura Superba",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Yellow_db6a7c39-e8ee-4d3d-9ca0-0d4891d0fb2d.jpg?v=1681552994&width=1100",
+    "category": "indoor",
+    "description": "The Snake Plant Futura Superba is known for its upright, dark green leaves with yellow edges. It’s very low-maintenance and thrives in low light."
+  },
+  {
+    "name": "Ixora (Rugmini) Plant - Pink",
+    "price": 599,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/DSC_1603.jpg?v=1696411824&width=1100",
+    "category": "flowering",
+    "description": "The Ixora (Rugmini) in pink blooms continuously and thrives in bright, indirect sunlight. It’s perfect for adding a splash of color indoors."
+  },
+  {
+    "name": "Ficus Lyrata (Fiddle Leaf Fig) - XL",
+    "price": 2499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-300.jpg?v=1708074871&width=1100",
+    "category": "indoor",
+    "description": "Ficus Lyrata, also known as the Fiddle Leaf Fig, is a trendy indoor plant with large, glossy leaves. It needs bright light and regular watering."
+  },
+  {
+    "name": "Sansevieria Laurentii Plant - XL",
+    "price": 2499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-027.jpg?v=1708075059&width=1100",
+    "category": "indoor",
+    "description": "Sansevieria Laurentii, or the Snake Plant, is an easy-care plant with tall, variegated green and yellow leaves. It thrives in low light and requires minimal watering."
+  },
+  {
+    "name": "Wandering Jew With Hanging Pot",
+    "price": 999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_0041efc1-9511-4917-9825-019f31118568.jpg?v=1709643216&width=1100",
+    "category": "indoor",
+    "description": "The Wandering Jew is an elegant, fast-growing plant with colorful foliage. It thrives in indirect light and needs regular watering."
+  },
+  {
+    "name": "ZZ Black Plant - XL",
+    "price": 2299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-019.jpg?v=1708075218&width=1100",
+    "category": "indoor",
+    "description": "The ZZ Black is a striking variety of ZZ plant with dark, glossy leaves. It's perfect for low-light areas and is known for its air-purifying properties."
+  },
+  {
+    "name": "Sansevieria Superba Green - Snake Plant",
+    "price": 599,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_6289.jpg?v=1706610451&width=1100",
+    "category": "indoor",
+    "description": "Sansevieria Superba Green, or Snake Plant, is an easy-to-care-for plant with tall, upright leaves. It thrives in low light and requires minimal water."
+  },
+  {
+    "name": "Indoor Plant Bundle: Fittonia, Crassula Mini, Philodendron Broken Heart, Philodendron Oxycardium Golden",
+    "price": 1299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Indoor_Plant_Bundle.jpg?v=1726303257&width=1100",
+    "category": "indoor",
+    "description": "This bundle includes a variety of popular indoor, perfect for any indoor space. Includes Fittonia, Crassula Mini, and more."
+  },
+  {
+    "name": "Fittonia Green Plant (Nerve Plant)",
+    "price": 299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-PastelPink_b9cb7567-785a-464c-88f9-d5282d4668d1.jpg?v=1680427445&width=1100",
+    "category": "indoor",
+    "description": "Fittonia, also known as the Nerve Plant, is known for its beautiful, veined leaves. It needs moderate light and consistent watering."
+  },
+  {
+    "name": "Turtle Vine",
+    "price": 999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/turtle-vine-31263162957956.png?v=1675622173&width=360",
+    "category": "indoor",
+    "description": "The Turtle Vine is a fast-growing, trailing plant with unique green leaves. It thrives in indirect light and regular watering."
+  },
+  {
+    "name": "Lucky Bamboo Plant - 2 Layer",
+    "price": 299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/AimagewithGlassBowl.jpg?v=1689316631&width=360",
+    "category": "indoor",
+    "description": "Lucky Bamboo is a symbol of good fortune. It grows well in water and low light, making it a perfect easy-care indoor plant."
+  },
+  {
+    "name": "Money Plant Variegated with Moss Stick",
+    "price": 1899,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/money-plant-variegated-with-moss-stick-32124265103492.jpg?v=1673870762&width=1100",
+    "category": "indoor",
+    "description": "The Money Plant Variegated is a popular plant that brings prosperity. It thrives in indirect light and needs occasional watering."
+  },
+  {
+    "name": "Croton Petra",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/large-croton-petra-32168846196868.jpg?v=1673865898&width=1100",
+    "category": "indoor",
+    "description": "Croton Petra is a beautiful indoor plant with bold, colorful foliage. It thrives in bright light and needs regular watering."
+  },
+  {
+    "name": "Peperomia Green Creeper Plant",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/spiro-pot-pink-peperomia-green-creeper-plant-32520175124612.jpg?v=1698301454&width=1100",
+    "category": "indoor",
+    "description": "Peperomia Green Creeper is a low-maintenance trailing plant with green leaves. It thrives in moderate light and needs minimal watering."
+  },
+  {
+    "name": "Christmas Cactus",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/SpiroCeramicPot-Pink_18b2c80d-dd85-4488-851d-f396943d21cb.jpg?v=1706608702&width=1100",
+    "category": "flowering",
+    "description": "The Christmas Cactus is a festive flowering plant that blooms brightly around the holiday season. It needs bright, indirect light and occasional watering."
+  },
+  {
+    "name": "Dwarf ZZ Plant",
+    "price": 699,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/GrailCeramicPot-Peach_1e819747-659e-4496-ba18-6c3be399e65c.jpg?v=1706609248&width=1100",
+    "category": "indoor",
+    "description": "The Dwarf ZZ Plant is a smaller version of the ZZ plant. It's easy to care for, thrives in low light, and needs minimal water."
+  },
+  {
+    "name": "English Ivy Plant In Hanging Planter",
+    "price": 999,
+    "imgUrl": "https://mygardenemporium.com/cdn/shop/files/EnglishIvyVariegatedInHangingPlanter.jpg?v=1708713404&width=1100",
+    "category": "indoor",
+    "description": "English Ivy is a fast-growing, trailing vine that can thrive in both low and bright light. It's perfect for a hanging planter."
+  },
+  {
+    "name": "Orchid Pink",
+    "price": 1499,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jQIc7kLGXHDjgxuWDxja1Q4Urfj4NaTBHw&s",
+    "category": "flowering",
+    "description": "The Orchid Pink is a beautiful flowering plant that blooms in vibrant pink flowers. It needs bright, indirect light and occasional watering."
+  },
+  {
+    "name": "Big Leaf Fittonia Plant",
+    "price": 349,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0609.jpg?v=1695379955&width=1100",
+    "category": "indoor",
+    "description": "The Big Leaf Fittonia has lush, large leaves with striking vein patterns. Ideal for indoor spaces, it thrives in low light and high humidity."
+  },
+  {
+    "name": "Spider Plant With Hanging Pot",
+    "price": 899,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_ec5c0b2a-34b6-4fd2-b95b-0775fc80d710.jpg?v=1709643092&width=1100",
+    "category": "indoor",
+    "description": "Spider plants are resilient, adaptable, and easy to grow. Their cascading green leaves and air-purifying qualities make them a perfect addition to any indoor space."
+  },
+  {
+    "name": "Dieffenbachia Tropic Snow Plant - XL",
+    "price": 2499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_239b95e3-af14-4967-8296-be0ea6b5f041.jpg?v=1727681483&width=1100",
+    "category": "indoor",
+    "description": "Dieffenbachia is a stunning plant with large, variegated green leaves. It’s perfect for adding a tropical feel to indoor environments."
+  },
+  {
+    "name": "Philodendron Selloum Green Plant",
+    "price": 879,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_2818.jpg?v=1706610628&width=1100",
+    "category": "indoor",
+    "description": "The Philodendron Selloum is an easy-to-care-for plant with deeply lobed leaves. Its vibrant green foliage adds a touch of elegance to any room."
+  },
+  {
+    "name": "Lotus Bamboo Plant 3 sticks",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_d8407b9a-4233-4cf3-84c5-3a148d9a96aa.jpg?v=1724848006&width=1100",
+    "category": "indoor",
+    "description": "A symbol of good luck and prosperity, the Lotus Bamboo Plant is often used in feng shui practices to attract positive energy."
+  },
+  {
+    "name": "Philodendron Pluto Green XL",
+    "price": 2499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_a874260c-0dc8-4759-b34a-fe3c9f1a6374.jpg?v=1699289192&width=1100",
+    "category": "indoor",
+    "description": "Philodendron Pluto is an elegant plant with dark green glossy leaves. It thrives in indoor environments and adds a touch of sophistication."
+  },
+  {
+    "name": "Aloe Vera Mini Plant",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/DSC_0038.jpg?v=1686137850&width=1100",
+    "category": "medicinal",
+    "description": "Aloe Vera is well-known for its healing properties. Its fleshy leaves are used in skincare and medicinal treatments."
+  },
+  {
+    "name": "Money Plant Marble",
+    "price": 399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0901.jpg?v=1695365329&width=1100",
+    "category": "indoor",
+    "description": "Money plants are believed to bring prosperity and luck. The marble variety has striking variegated leaves that add charm to any room."
+  },
+  {
+    "name": "Philodendron Congo",
+    "price": 1299,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/philodendron-congo-31793149444228.jpg?v=1675607753&width=1100",
+    "category": "indoor",
+    "description": "The Philodendron Congo is a vibrant plant with dark green, glossy leaves. It’s known for its air-purifying qualities and easy care."
+  },
+  {
+    "name": "Sansevieria Gold Flame Snake Plant",
+    "price": 599,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_6308.jpg?v=1706610043&width=1100",
+    "category": "indoor",
+    "description": "The Gold Flame Snake Plant is a hardy and low-maintenance plant with yellow-green streaks, perfect for beginners and indoor spaces."
+  },
+  {
+    "name": "Calathea Burle Marxii Plant",
+    "price": 649,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/GrailCeramicPot-White_e1eeec78-a810-4638-84f6-3ea50a36f3a3.jpg?v=1687617174&width=1100",
+    "category": "indoor",
+    "description": "The Calathea Burle Marxii has unique, marbled foliage that adds visual interest to any indoor setting. It prefers indirect light and high humidity."
+  },
+  {
+    "name": "Peperomia Green Creeper with Hanging Planter",
+    "price": 999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_b79c0a62-18ee-4c73-ac6c-1b9dbdce3dbe.jpg?v=1709640335&width=1100",
+    "category": "climbers",
+    "description": "Peperomia Green Creeper is an easy-to-grow plant with attractive trailing vines and glossy green leaves. It’s ideal for hanging baskets."
+  },
+  {
+    "name": "Netted Ficus Tree",
+    "price": 3999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/netted-ficus-tree-32169816686724.jpg?v=1675560431&width=1100",
+    "category": "indoor",
+    "description": "The Netted Ficus Tree has a striking appearance with broad, leathery leaves. It makes a dramatic statement in any large indoor space."
+  },
+  {
+    "name": "Kalanchoe Plant - Orange",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Red_e9c0e1a8-6bda-4167-80c4-287969098a81.jpg?v=1706610339&width=1100",
+    "category": "flowering",
+    "description": "Kalanchoe is a vibrant flowering plant that blooms in orange. Its colorful flowers brighten up any space and are easy to maintain."
+  },
+  {
+    "name": "Sansevieria Whitney - Snake Plant",
+    "price": 699,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0992.jpg?v=1706610519&width=1100",
+    "category": "indoor",
+    "description": "The Sansevieria Whitney is a hardy and low-maintenance plant known for its upright, sword-like leaves with striped patterns."
+  },
+  {
+    "name": "Ixora (Rugmini) Plant - Orange",
+    "price": 599,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Krish12Planter-Red_1dc8f359-2cae-455c-83a4-69f0952731b0.jpg?v=1687590083&width=1100",
+    "category": "flowering",
+    "description": "Ixora is a popular ornamental plant with clusters of small, colorful flowers. The orange variety is especially vibrant and perfect for brightening any garden or space."
+  },
+  {
+    "name": "Philodendron Brasil Plant",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/LagosPlanter-White_09d50e47-7591-42f2-9c30-76a4cf263d81.jpg?v=1683043750&width=1100",
+    "category": "indoor",
+    "description": "Philodendron Brasil features green leaves with bright yellow streaks. It’s a trailing plant that grows well indoors and is easy to care for."
+  },
+  {
+    "name": "Aloe Vera Plant",
+    "price": 399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/DSC_1335.jpg?v=1695775037&width=1100",
+    "category": "medicinal",
+    "description": "Aloe Vera is widely used for its medicinal and cosmetic benefits, from soothing burns to promoting healthy skin."
+  },
+  {
+    "name": "Aloe Vera Plant 3.5 inch Pot",
+    "price": 249,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/DSC_2498.jpg?v=1683541054&width=1100",
+    "category": "medicinal",
+    "description": "A compact Aloe Vera plant in a 3.5-inch pot. Great for small spaces and medicinal use, offering many health benefits."
+  },
+  {
+    "name": "Hibiscus Plant - Red",
+    "price": 449,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0650.jpg?v=1695379865&width=1100",
+    "category": "flowering",
+    "description": "The Hibiscus Red variety produces large, vibrant flowers. It’s perfect for adding color to gardens or indoors."
+  },
+  {
+    "name": "Bougainvillea Pink Plant",
+    "price": 649,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/DSC_0855_1_18312fdb-9cf0-4c10-b825-e22b46b2de0c.jpg?v=1685205692&width=1100",
+    "category": "flowering",
+    "description": "Bougainvillea is a vibrant flowering plant, with abundant pink flowers that add color and beauty to any garden or balcony."
+  },
+  {
+    "name": "Money Plant Satin",
+    "price": 449,
+    "tags": ["climbers"],
+    "description": "The Money Plant Satin is a hardy, low-maintenance climber with glossy green leaves featuring subtle silvery streaks, ideal for home décor.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_6374.jpg?v=1689329846&width=1100"
+  },
+  {
+    "name": "Peperomia Variegated Creeper With Hanging Pot",
+    "price": 999,
+    "tags": ["climbers", "indoor"],
+    "description": "A variegated creeper with beautiful foliage, this plant is perfect for hanging pots and adds a touch of elegance to your indoor garden.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_8a460822-f07e-40bc-a178-8f1e73bb4102.jpg?v=1709640492&width=1100"
+  },
+  {
+    "name": "The Sleep Better Bundle",
+    "price": 1299,
+    "tags": ["indoor"],
+    "description": "This bundle includes plants known for their air-purifying qualities, helping create a restful, soothing environment for better sleep.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/the-sleep-better-bundle-31262958747780.png?v=1675622519&width=1100"
+  },
+  {
+    "name": "Golden Fern Plant",
+    "price": 499,
+    "tags": ["indoor"],
+    "description": "The Golden Fern is an elegant indoor plant with beautiful golden-green fronds, adding a touch of greenery to any indoor space.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_6416.jpg?v=1706610576&width=1100"
+  },
+  {
+    "name": "Philodendron Oxycardium Golden Plant with Moss Stick",
+    "price": 1899,
+    "tags": ["indoor"],
+    "description": "This vibrant golden-leaved plant, supported by a moss stick, thrives indoors and is an easy-care addition to any home.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/philodendron-oxycardium-golden-plant-with-moss-stick-32124408955012.jpg?v=1673870594&width=1100"
+  },
+  {
+    "name": "Satin Silver Splash",
+    "price": 399,
+    "tags": ["indoor"],
+    "description": "A unique and striking indoor plant with silvery patterns on its green leaves, adding beauty and freshness to your living room.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/satin-silver-splash-31263191040132.png?v=1675616217&width=1100"
+  },
+  {
+    "name": "Philodendron Oxycardium Green With Hanging Pot",
+    "price": 999,
+    "tags": ["climbers", "indoor"],
+    "description": "This lush green climber is perfect for hanging pots, offering a tropical touch and purifying the air around it.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_5e25dfba-4a74-48f6-8ad8-1181e65f75a4.jpg?v=1709640207&width=1100"
+  },
+  {
+    "name": "Earth Star Plant - Pink",
+    "price": 349,
+    "tags": ["indoor"],
+    "description": "The Earth Star Plant has stunning pink foliage and is known for its beauty and air-purifying properties, perfect for indoor spaces.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0175.jpg?v=1692252792&width=1100"
+  },
+  {
+    "name": "Calathea Freddie - Medium",
+    "price": 699,
+    "tags": ["indoor"],
+    "description": "A beautiful, low-maintenance plant with stunning purple and green foliage, perfect for creating a serene indoor garden.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_6463.jpg?v=1706610702&width=1100"
+  },
+  {
+    "name": "Aralia Variegated Mini Plant",
+    "price": 349,
+    "tags": ["indoor"],
+    "description": "This small, variegated plant features beautiful, patterned leaves and is perfect for brightening up indoor spaces.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/aralia-variegated-mini-plant-31774269309060.jpg?v=1675575191&width=1100"
+  },
+  {
+    "name": "The Low Maintenance Bundle",
+    "price": 1299,
+    "tags": ["indoor"],
+    "description": "This bundle contains plants that require minimal care, perfect for beginners or anyone with a busy lifestyle.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Low_Maintenance_Bundle.jpg?v=1726307990&width=1100"
+  },
+  {
+    "name": "Philodendron Pluto Golden Plant",
+    "price": 2249,
+    "tags": ["indoor"],
+    "description": "With its golden-green leaves, the Philodendron Pluto is a striking indoor plant that requires little care and is perfect for any room.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/AImage_beb14392-a6f5-49e8-9766-d15189cddf19.jpg?v=1693564774&width=1100"
+  },
+  {
+    "name": "Aglaonema Manila Beauty - XL",
+    "price": 1999,
+    "tags": ["indoor", "medicinal"],
+    "description": "Aglaonema Manila Beauty is an air-purifying plant with elegant silver-green leaves, perfect for improving indoor air quality.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_3fb1e5db-9709-4bf0-8b20-082453db5019.jpg?v=1708074738&width=1100"
+  },
+  {
+    "name": "The Living Room Bundle",
+    "price": 1299,
+    "tags": ["indoor"],
+    "description": "This bundle features plants that thrive in the living room, creating a cozy and welcoming atmosphere.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/the-living-room-bundle-31263063244932.png?v=1675622349&width=1100"
+  },
+  {
+    "name": "Calathea Pinstripe Plant",
+    "price": 799,
+    "tags": ["indoor"],
+    "description": "This elegant plant features bold pinstripe patterns on its leaves, adding a touch of sophistication to any space.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Krish12Planter-Red_a6a131f7-c5b1-4f29-8cf2-53407f0469ae.jpg?v=1706611092&width=1100"
+  },
+  {
+    "name": "Red Bromeliad",
+    "price": 349,
+    "tags": ["flowering"],
+    "description": "The vibrant red flowers of the Bromeliad are perfect for adding a splash of color to any indoor or outdoor space.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_9943.jpg?v=1692196276&width=1100"
+  },
+  {
+    "name": "Peperomia Variegated Plant",
+    "price": 249,
+    "tags": ["indoor"],
+    "description": "A low-maintenance plant with variegated leaves, Peperomia is perfect for brightening up shelves or desks.",
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/SpiroCeramicPot-White_725fdcf3-b24a-4710-a61e-e2d67af6deaf.jpg?v=1683029966&width=1100"
+  },
+  {
+    "name": "Haworthia Limifolia var. Ubomboensis",
+    "price": 349,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_9065.jpg?v=1691749823&width=1100",
+    "category": "succulents",
+    "description": "A compact succulent with fleshy, pointed leaves. Thrives in bright, indirect light."
+  },
+  {
+    "name": "The Sun-loving Succulent Bundle",
+    "price": 1499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/the-sun-loving-succulent-bundle-31263062229124.png?v=1675622523&width=1100",
+    "category": "succulents",
+    "description": "A bundle of sun-loving succulents that require minimal care. Ideal for bright spots."
+  },
+  {
+    "name": "Haworthia Cooperi Fleshy",
+    "price": 349,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0179.jpg?v=1692373257&width=1100",
+    "category": "succulents",
+    "description": "A small, fleshy succulent with translucent, green leaves. Prefers indirect sunlight."
+  },
+  {
+    "name": "Dieffenbachia Delilah - Large",
+    "price": 999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_e87ec79e-3adc-4674-8d46-e3563e0309a9.jpg?v=1728458626&width=1100",
+    "category": "indoor",
+    "description": "A large indoor plant with attractive variegated leaves. Best suited for low to medium light."
+  },
+  {
+    "name": "Echeveria Subsesilis Hybrid Silver Plant",
+    "price": 399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0215.jpg?v=1692366211&width=1100",
+    "category": "succulents",
+    "description": "A silver-blue succulent with rosettes of thick leaves. Prefers full sunlight."
+  },
+  {
+    "name": "Stromanthe Triostar Plant",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Ivory_3f18466a-68f8-4763-8a18-fe58269b0f6a.jpg?v=1681551837&width=1100",
+    "category": "indoor",
+    "description": "A striking indoor plant with tri-colored foliage. Thrives in medium to bright light."
+  },
+  {
+    "name": "Lemon Grass",
+    "price": 699,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/lemon-grass-31793410343044.jpg?v=1675599126&width=1100",
+    "category": "medicinal",
+    "description": "A fragrant herb with a lemony scent, often used in teas and cooking. Grows best in sunlight."
+  },
+  {
+    "name": "Calathea Sanderiana",
+    "price": 699,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/GrailCeramicPot-Peach_ab7628fa-304a-461e-a99a-cdcf39812469.jpg?v=1706609752&width=1100",
+    "category": "indoor",
+    "description": "An elegant plant with patterned, purple-underside leaves. Prefers indirect light."
+  },
+  {
+    "name": "Lucky Wheel Bamboo Plant",
+    "price": 1399,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_1d54ccfe-9466-424c-8c8f-1f56eca0f58a.jpg?v=1726304492&width=1100",
+    "category": "indoor",
+    "description": "A lucky bamboo plant shaped like a wheel. Known for bringing good fortune and prosperity."
+  },
+  {
+    "name": "Lotus Lucky Bamboo 5 Sticks",
+    "price": 599,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/1_6b562de3-b94c-4c64-99ed-a984234832a0.jpg?v=1724849268&width=1100",
+    "category": "indoor",
+    "description": "A combination of lucky bamboo and lotus in a set of five. A symbol of wealth and good luck."
+  },
+  {
+    "name": "Kalanchoe Plant - Red",
+    "price": 499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Red_e78bf173-823d-4c8a-8520-937ff045646a.jpg?v=1681551643&width=1100",
+    "category": "flowering",
+    "description": "A vibrant red flowering plant that blooms year-round. Prefers direct sunlight."
+  },
+  {
+    "name": "Bird of Paradise Plant",
+    "price": 799,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_0998.jpg?v=1695636123&width=1100",
+    "category": "indoor",
+    "description": "A tropical plant with large, banana-like leaves and striking flowers. Prefers bright, indirect light."
+  },
+  {
+    "name": "Homalomena Plant - XL",
+    "price": 2199,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/A_image.jpg?v=1726303163&width=1100",
+    "category": "indoor",
+    "description": "A large indoor plant with glossy, heart-shaped leaves. Grows well in medium to low light."
+  },
+  {
+    "name": "Anthurium Livium Plant",
+    "price": 1499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/DSC_2543.jpg?v=1692767481&width=1100",
+    "category": "indoor",
+    "description": "A flowering plant with waxy, red flowers and dark green leaves. Prefers indirect light."
+  },
+  {
+    "name": "Sansevieria Zeylanica - XL",
+    "price": 2499,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/XL-026.jpg?v=1708075109&width=1100",
+    "category": "indoor",
+    "description": "A hardy plant with tall, sword-like leaves. Tolerates low light and neglect."
+  },
+  {
+    "name": "Ficus Netted Microcarpa",
+    "price": 3999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_bd926173-10ff-42a7-ae6d-c0eb39283154.jpg?v=1699289708&width=1100",
+    "category": "indoor",
+    "description": "A large, air-purifying indoor tree with variegated leaves. Best suited for bright, indirect light."
+  },
+  {
+    "name": "Stromanthe Triostar Plant - Set of 2",
+    "price": 1999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/stromanthe-triostar-plant-set-of-2-31818407018628.jpg?v=1675618931&width=1100",
+    "category": "indoor",
+    "description": "A set of two striking plants with tri-colored leaves. Perfect for adding vibrance indoors."
+  },
+  {
+    "name": "Fittonia Pink Plant",
+    "price": 349,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/LagosPlanter-Mocca_5d8ef780-826d-4052-be83-c24efb2f3798.jpg?v=1683043569&width=1100",
+    "category": "indoor",
+    "description": "A small, low-maintenance plant with pink veins. Prefers bright, indirect light."
+  },
+  {
+    "name": "Twisted Hoya",
+    "price": 999,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/files/Aimage_c87a22ce-f812-4c98-9fad-9c6df3a8d4a7.jpg?v=1708766223&width=1100",
+    "category": "climbers",
+    "description": "A unique, twisted variety of Hoya. Ideal for hanging baskets or as a trailing plant."
+  },
+  {
+    "name": "Calathea Green Plant",
+    "price": 599,
+    "imgUrl": "https://www.ugaoo.com/cdn/shop/products/Calathea-Green-plant-31793420416388.jpg?v=1675599657&width=1100",
+    "category": "indoor",
+    "description": "A plant with large, glossy, green leaves. Prefers indirect light and humidity."
+  },
+  {
+    "name": "Blue Grape Hyacinth Super Sak®",
+    "category": "flowering",
+    "price": 250,
+    "description": "A charming flower with clusters of blue blooms resembling small grapes. Perfect for early spring color.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/67285A.webp"
+  },
+  {
+    "name": "Pink Hawaiian Coral Peony",
+    "category": "flowering",
+    "price": 450,
+    "description": "A vibrant coral pink peony with large, fragrant blooms. Adds elegance to any garden space.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/62911A.webp"
+  },
+  {
+    "name": "Classic Dinnerplate Dahlia Collection",
+    "category": "flowering",
+    "price": 300,
+    "description": "Collection of large dahlias with spectacular, dinnerplate-sized flowers. Ideal for bold garden displays.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/91464.webp"
+  },
+  {
+    "name": "Mixed Daffodil Super Sak®",
+    "category": "flowering",
+    "price": 200,
+    "description": "An assortment of cheerful daffodils in yellow, white, and orange. Great for naturalizing areas.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/76213A.webp"
+  },
+  {
+    "name": "3 Months of Yellow Daffodils",
+    "category": "flowering",
+    "price": 350,
+    "description": "Continuous blooming of yellow daffodils for three months. A bright addition for springtime.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/76577A.webp"
+  },
+  {
+    "name": "WellBuilt™ Squirrel Proof Bulb Netting",
+    "category": "indoor",
+    "price": 150,
+    "description": "Protects bulbs from squirrels and other pests. Ideal for preserving precious garden bulbs.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/92962.webp"
+  },
+  {
+    "name": "Breck's® Food for Bulbs and Perennials",
+    "category": "medicinal",
+    "price": 120,
+    "description": "Specially formulated plant food to nourish bulbs and perennials, promoting healthy growth.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/84749.webp"
+  },
+  {
+    "name": "Bulb Basket",
+    "category": "indoor",
+    "price": 90,
+    "description": "Convenient basket for holding and arranging bulbs. Perfect for indoor and outdoor gardening.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/65691A.webp"
+  },
+  {
+    "name": "Technicolour™ Daffodil Mixture",
+    "category": "flowering",
+    "price": 260,
+    "description": "Bright, multicolored daffodil mix for adding a vibrant splash of color to your garden.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/68487A.webp"
+  },
+  {
+    "name": "Hosta Mixture Super Sak®",
+    "category": "indoor",
+    "price": 340,
+    "description": "A diverse mix of Hosta plants with beautiful, lush foliage. Ideal for shady garden areas.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/73741A.webp"
+  },
+  {
+    "name": "Lilac Time Dahlia",
+    "category": "flowering",
+    "price": 320,
+    "description": "Elegant lilac-colored dahlias with large blooms. Creates a stunning garden centerpiece.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/62444.webp"
+  },
+  {
+    "name": "2 Months of Grape Hyacinths",
+    "category": "flowering",
+    "price": 180,
+    "description": "Enjoy grape hyacinths that bloom continuously for two months, perfect for extended color.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/39466.webp"
+  },
+  {
+    "name": "Coral Sunset Peony",
+    "category": "flowering",
+    "price": 450,
+    "description": "A striking peony with coral-colored blooms that change shades as they mature. Great for cutting.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/61356A.webp"
+  },
+  {
+    "name": "Labyrinth Dahlia",
+    "category": "flowering",
+    "price": 310,
+    "description": "Intricate, pastel-colored dahlia with ruffled petals. A unique variety to enhance your garden.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/62461.webp"
+  },
+  {
+    "name": "Decorative Dahlia Mixture",
+    "category": "flowering",
+    "price": 290,
+    "description": "A mix of dahlias in a variety of vibrant colors, perfect for garden borders and displays.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/18234A.webp"
+  },
+  {
+    "name": "Early Snow Glories",
+    "category": "flowering",
+    "price": 220,
+    "description": "Delicate, star-like white blooms that appear early in spring. Ideal for rock gardens.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/67279A.webp"
+  },
+  {
+    "name": "Astilbe Mixture Super Sak®",
+    "category": "indoor",
+    "price": 280,
+    "description": "A mix of Astilbe plants with feathery plumes, perfect for adding color to shady areas.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/73742A.webp"
+  },
+  {
+    "name": "Jowey Nicky Giant Ball Dahlia",
+    "category": "flowering",
+    "price": 320,
+    "description": "Large ball-shaped dahlia in a vibrant shade. Adds a bold element to flower arrangements.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/94060.webp"
+  },
+  {
+    "name": "Beachside Blue Sea Holly Super Sak®",
+    "category": "medicinal",
+    "price": 260,
+    "description": "Unique blue flowers with spiky, thistle-like appearance. Known for medicinal uses.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/88502A.webp"
+  },
+  {
+    "name": "Discovery Dutch Iris",
+    "category": "flowering",
+    "price": 150,
+    "description": "Vibrant blue and yellow iris flowers, ideal for floral displays and bouquets.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/71158A.webp"
+  },
+  {
+    "name": "Lily-of-the-Valley",
+    "category": "medicinal",
+    "price": 170,
+    "description": "Delicate white, bell-shaped flowers with a sweet fragrance. Often used for medicinal purposes.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/19562A.webp"
+  },
+  {
+    "name": "All Season Lily Mixture",
+    "category": "flowering",
+    "price": 250,
+    "description": "A mix of lilies that bloom in succession throughout the season. Provides extended beauty.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/62882A.webp"
+  },
+  {
+    "name": "Variatie Red™ Tulip Mixture",
+    "category": "flowering",
+    "price": 280,
+    "description": "Bold red tulips that make a striking statement in any garden setting.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/09761A.webp"
+  },
+  {
+    "name": "Patio Dahlia Mixture",
+    "category": "flowering",
+    "price": 230,
+    "description": "A mix of small, colorful dahlias suitable for patio pots and smaller garden spaces.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/62782A.webp"
+  },
+  {
+    "name": "Dinnerplate Dahlia Mixture",
+    "category": "flowering",
+    "price": 300,
+    "description": "A variety of large dahlias with blooms as big as dinner plates. Adds boldness to gardens.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/62443.webp"
+  },
+  {
+    "name": "Jowey Winnie Dahlia",
+    "category": "flowering",
+    "price": 320,
+    "description": "Lovely dahlia with compact, globe-shaped blooms in soft colors. Great for cut flowers.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/84719.webp"
+  },
+  {
+    "name": "Flaming Flag Tulip",
+    "category": "flowering",
+    "price": 240,
+    "description": "Purple and white tulip variety that brings a unique color pattern to the spring garden.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/78408.webp"
+  },
+  {
+    "name": "Belle of Barmera Dahlia",
+    "category": "flowering",
+    "price": 350,
+    "description": "An eye-catching dahlia with bright, fluffy blooms. Adds a vibrant focal point to landscapes.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/68425.webp"
+  },
+  {
+    "name": "Waxed Amaryllis Bulb",
+    "category": "indoor",
+    "price": 180,
+    "description": "A wax-coated amaryllis bulb that requires no soil, perfect for indoor decoration.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/72860.webp"
+  },
+  {
+    "name": "6 Months of Flowering Cyclamen",
+    "category": "flowering",
+    "price": 260,
+    "description": "Cyclamen plants that provide continuous blooms for up to six months, brightening any space.",
+    "imgUrl": "https://www.brecks.com/cdn/shop/files/39467A.webp"
+  },
+  {
+    "name": "Pastel Succulent 25-Pack - 5 Varieties - 2\" Pots",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/set_25_pastel_5_1__68042.jpg?v=1713215192&width=330",
+    "price": 999,
+    "category": "succulents",
+    "description": "A pastel collection of 25 small succulents in various colors. Perfect for adding a soft, calming touch to any indoor space."
+  },
+  {
+    "name": "Great Indoor succulents 25-Pack - 5 Varieties - 2\" Pots",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/tray25_indoora2__40527.jpg?v=1713215436&width=330",
+    "price": 1099,
+    "category": "indoor",
+    "description": "A variety pack of 25 easy-to-care-for succulents suited for indoor settings. Ideal for home or office decor."
+  },
+  {
+    "name": "Opuntia monacantha variegata 'Variegated Joseph's Coat'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/opuntia-josephs-coat-variegata.jpg?v=1712726683&width=330",
+    "price": 550,
+    "category": "succulents",
+    "description": "A striking variegated cactus with vibrant colors. Adds an exotic touch to any plant collection."
+  },
+  {
+    "name": "Sempervivum 'Hot Cocoa'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/sempervivum-hot-cocoa-side.jpg?v=1712867730&width=330",
+    "price": 320,
+    "category": "succulents",
+    "description": "This unique succulent resembles warm, rich cocoa in color. Hardy and easy to grow indoors or out."
+  },
+  {
+    "name": "Cotyledon orbiculata 'Oophylla'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/Cotyledon-orbiculata-_Oophylla.jpg?v=1715968284&width=330",
+    "price": 600,
+    "category": "succulents",
+    "description": "A beautiful, unique succulent with rounded leaves. Adds elegance to any plant arrangement."
+  },
+  {
+    "name": "Haworthia 'Chocolate'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/products/haworthia-magnifica-enigma_bb139c37-8a57-423b-a61b-c80aaeb08e14.jpg?v=1645034478&width=330",
+    "price": 450,
+    "category": "indoor",
+    "description": "A dark-toned Haworthia, perfect for low-light environments. Compact and easy to maintain."
+  },
+  {
+    "name": "Haworthia cooperi var. variegata",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8651.webp?v=1709233716&width=330",
+    "price": 700,
+    "category": "indoor",
+    "description": "Delicate, translucent leaves make this Haworthia an eye-catching addition to any indoor garden."
+  },
+  {
+    "name": "Echeveria pulidonis",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/Echeveriapulidonis.jpg?v=1717438026&width=330",
+    "price": 300,
+    "category": "succulents",
+    "description": "A rosette-shaped succulent with red-edged leaves. Beautiful in pots or as a garden ground cover."
+  },
+  {
+    "name": "Aloe 'Firebird'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/products/Aloe-firebird.jpg?v=1600790064&width=330",
+    "price": 550,
+    "category": "medicinal",
+    "description": "Compact aloe variety with red-tipped leaves, great for sunlit spots. Known for its healing properties."
+  },
+  {
+    "name": "Senecio scaposus 'Silver Coral'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8635.webp?v=1709233514&width=330",
+    "price": 500,
+    "category": "succulents",
+    "description": "Silvery, coral-like structure that adds a unique look. A hardy plant for any indoor setting."
+  },
+  {
+    "name": "Ledebouria socialis 'Silver Squill'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8526.webp?v=1709230766&width=330",
+    "price": 620,
+    "category": "indoor",
+    "description": "Distinctive silvery-green leaves with purple spots. Ideal for adding interest to low-light spaces."
+  },
+  {
+    "name": "Agave isthmensis f. mediopicta-alba",
+    "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8725.webp?v=1709265024&width=330",
+    "price": 800,
+    "category": "succulents",
+    "description": "A compact agave with beautiful white stripes. Perfect for adding a sculptural look to spaces."
+  },
+  {
+    "name": "Haworthia emelyae var. major",
+    "imgUrl": "https://leafandclay.co/cdn/shop/products/haworthia-emelyae-v-major.jpg?v=1534560257&width=330",
+    "price": 550,
+    "category": "succulents",
+    "description": "A small, rosette succulent with intricate patterns on its leaves. Great for bright indoor spaces."
+  },
+  {
+    "name": "Crassula ovata 'Tricolor'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/products/crassula-argentea-money-tree-variegata-side.jpg?v=1538155969&width=330",
+    "price": 650,
+    "category": "succulents",
+    "description": "Popular tricolor Jade plant with variegated leaves. Symbol of prosperity and good luck."
+  },
+  {
+    "name": "Euphorbia mammillaris f. variegata 'Indian Corn Cob'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/products/euphorbia-mammillaris-variegata-side.jpg?v=1511752685&width=330",
+    "price": 600,
+    "category": "succulents",
+    "description": "Unique Euphorbia variety with textured, colorful stems. Adds an exotic look to your collection."
+  },
+  {
+    "name": "Crassula 'Jade Necklace'",
+    "imgUrl": "https://leafandclay.co/cdn/shop/products/crassula-jade-necklace-side.jpg?v=1514908646&width=330",
+    "price": 480,
+    "category": "succulents",
+    "description": "An unusual succulent with compact leaves resembling a necklace. Perfect for small pots or hanging planters."
+  }
+,
+{
+  "name": "Crassula cultrata",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/crassula-cultrata.jpg?v=1712726153&width=330",
+  "price": 350,
+  "description": "Crassula cultrata is a succulent plant known for its unique, stacked foliage. It's perfect for low-maintenance indoor gardening."
+},
+{
+  "name": "Deuterocohnia brevifolia 'Argentina Ball'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8666.webp?v=1709234014&width=330",
+  "price": 500,
+  "description": "This small, spherical succulent brings a pop of color and texture to your collection. It thrives in bright, indirect light."
+},
+{
+  "name": "Adromischus filicaulis",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8602.webp?v=1709231676&width=330",
+  "price": 600,
+  "description": "Adromischus filicaulis is a unique succulent with thin, long leaves. It requires minimal watering and makes an attractive addition to any space."
+},
+{
+  "name": "Faucaria tuberculosa 'Super Warty'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8630.webp?v=1709233482&width=330",
+  "price": 450,
+  "description": "With its eye-catching, warty leaves, this succulent adds texture and interest. It prefers bright sunlight and well-drained soil."
+},
+{
+  "name": "Portulacaria afra 'Medio-picta'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8686.webp?v=1709234266&width=330",
+  "price": 400,
+  "description": "A beautiful variegated succulent, Portulacaria afra 'Medio-picta' has soft green and white leaves. It's easy to grow and perfect for beginners."
+},
+{
+  "name": "Crassula 'Buddha's Temple'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/crassulabuddhastemople2.jpg?v=1714141584&width=330",
+  "price": 700,
+  "description": "This succulent resembles a temple with its unique stacked leaves. It's a low-maintenance plant that thrives in dry conditions."
+},
+{
+  "name": "Chick Charms® Gold Nugget™",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/chick-charms-gold-nugget-2-side.jpg?v=1712728304&width=330",
+  "price": 800,
+  "description": "A compact, colorful succulent, Chick Charms® Gold Nugget™ has golden hues and is a stunning addition to your succulent collection."
+},
+{
+  "name": "Callisia repens f. variegata 'Pink Lady'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/callisia-repens-pinkpanther.jpg?v=1638543765&width=330",
+  "price": 350,
+  "description": "This beautiful, trailing succulent has pink and green variegated leaves. It does well in indirect light and is perfect for hanging baskets."
+},
+{
+  "name": "Anacampseros telephiastrum f. variegata 'Sunrise'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8551.webp?v=1709231189&width=330",
+  "price": 550,
+  "description": "Anacampseros 'Sunrise' displays stunning pink, white, and green variegated leaves. This succulent is ideal for windowsills or small containers."
+},
+{
+  "name": "Fenestraria rhopalophylla 'Baby Toes'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/fenestraria-aurantiaca-baby-toes-side.jpg?v=1541806954&width=330",
+  "price": 600,
+  "description": "Known for its small, translucent leaves, this succulent resembles baby toes. It's perfect for a small, low-maintenance indoor garden."
+},
+{
+  "name": "Echeveria affinis 'Black Knight'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/echeveria-black-knight.jpg?v=1525364134&width=330",
+  "price": 650,
+  "description": "Echeveria 'Black Knight' has striking dark purple-black leaves, making it a unique addition to your succulent collection."
+},
+{
+  "name": "Kalanchoe 'Pink Butterflies'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/kalanchoe-pink-butterflies-2.jpg?v=1712205030&width=330",
+  "price": 700,
+  "description": "With its delicate pink flowers, Kalanchoe 'Pink Butterflies' adds charm and color to any indoor space. It thrives in indirect sunlight."
+},
+{
+  "name": "Senecio rowleyanus 'String of Pearls'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/string-of-pearls.jpg?v=1481907419&width=330",
+  "price": 750,
+  "description": "Senecio 'String of Pearls' is a unique trailing succulent with pearl-like beads. It grows well in bright, indirect light."
+},
+{
+  "name": "Albuca spiralis 'Frizzle Sizzle'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/albuca-spiralis-frizzle-sizzle-1.jpg?v=1712121879&width=330",
+  "price": 850,
+  "description": "This unusual succulent features spiraling, corkscrew-like leaves. It's perfect for adding texture and interest to your plant collection."
+},
+{
+  "name": "Ceropegia woodii 'String of Hearts' variegata",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/variegated_string_o_hearts_round_2_top__93089.jpg?v=1712548185&width=330",
+  "price": 900,
+  "description": "With heart-shaped leaves and trailing vines, this succulent is ideal for hanging baskets or plant shelves."
+},
+{
+  "name": "Senecio rowleyanus f. variegatus 'Variegated String of Pearls'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/variegated_string_of_pearls_redux__20053.jpg?v=1711211118&width=330",
+  "price": 800,
+  "description": "A variegated version of the popular 'String of Pearls', this plant offers a unique appearance with white and green markings on its beads."
+},
+{
+  "name": "Echeveria 'Raindrops'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/echeveria-Raindrops.png?v=1500857911&width=330",
+  "price": 750,
+  "description": "Echeveria 'Raindrops' features stunning, raindrop-shaped leaves that glisten in the light. A perfect choice for succulent enthusiasts."
+},
+{
+  "name": "Agave isthmensis f. mediopicta-alba",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8725.webp?v=1709265024&width=330",
+  "price": 950,
+  "description": "A rare and stunning succulent, Agave 'Mediopicta-alba' has striking white and green striped leaves. It thrives in bright, indirect light."
+},
+{
+  "name": "Echeveria 'Lilac Frost'",
+  "category": "succulents",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/lilac_frost__41676.jpg?v=1727374335&width=330",
+  "price": 850,
+  "description": "Echeveria 'Lilac Frost' has pale lavender leaves with frosted edges, giving it an elegant, delicate look. It’s a great addition to any succulent garden."
+},
+{
+  "name": "Pachysedum 'Ganzhou'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/pachysedum-ganzhou-side.jpg?v=1513031495&width=330",
+  "price": 650,
+  "category": "succulents",
+  "description": "A unique succulent with thick, green leaves. It thrives in well-drained soil and bright light."
+},
+{
+  "name": "Portulacaria afra 'Medio-picta'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8686.webp?v=1709234266&width=330",
+  "price": 800,
+  "category": "succulents",
+  "description": "Also known as Elephant Bush, this plant has variegated leaves. Ideal for bright, indirect light."
+},
+{
+  "name": "Euphorbia anoplia 'Tanzanian Zipper Plant'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8603.webp?v=1709231688&width=330",
+  "price": 950,
+  "category": "succulents",
+  "description": "A unique succulent with spiky, textured stems. This plant requires bright light and minimal watering."
+},
+{
+  "name": "Huernia procumbens",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/huernia-procumbens.jpg?v=1712855992&width=330",
+  "price": 700,
+  "category": "succulents",
+  "description": "An interesting succulent with star-shaped flowers. It requires bright, indirect sunlight and little water."
+},
+{
+  "name": "Kalanchoe tomentosa 'Teddy Bear'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8691.webp?v=1709234303&width=330",
+  "price": 600,
+  "category": "succulents",
+  "description": "A fuzzy, soft-leaved succulent with a bear-like texture. Prefers bright light and infrequent watering."
+},
+{
+  "name": "Haworthia cooperi var. truncata",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8659.webp?v=1709233941&width=330",
+  "price": 550,
+  "category": "succulents",
+  "description": "A small, translucent succulent that thrives in low light and needs minimal watering."
+},
+{
+  "name": "Echeveria 'Perle von Nurnberg'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/IMG_8542.webp?v=1709231003&width=330",
+  "price": 750,
+  "category": "succulents",
+  "description": "A stunning rosette succulent with purple-grey leaves. Prefers full sun and well-drained soil."
+},
+{
+  "name": "Faucaria felina 'Tiger Jaws'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/faucaria-tigrina-tiger-jaws-side.jpg?v=1530553185&width=330",
+  "price": 850,
+  "category": "succulents",
+  "description": "This succulent features jagged, tooth-like leaves that resemble a tiger's jaw. It requires minimal water and full sunlight."
+},
+{
+  "name": "Euphorbia ferox 'Pincushion Euphorbia'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/euphorbia-enopla-pincushion-euphorbia-side.jpg?v=1553380394&width=330",
+  "price": 900,
+  "category": "succulents",
+  "description": "A spiny and striking succulent. It thrives in well-drained soil and full sunlight."
+},
+{
+  "name": "Senecio jacobsenii 'Trailing Jade'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/crassula-ovata-whirlybird.png?v=1527283311&width=330",
+  "price": 750,
+  "category": "succulents",
+  "description": "A trailing succulent with fleshy, round leaves. Prefers bright light and occasional watering."
+},
+{
+  "name": "Calathea 'White Fusion'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/4_CALATHEA_WHITE.FUSION_1.jpg?v=1644598115&width=330",
+  "price": 1200,
+  "category": "indoor",
+  "description": "A beautiful indoor plant with white and green variegated leaves. Prefers low to medium light and high humidity."
+},
+{
+  "name": "Nephrolepis cordifolia 'Lemon Button Fern'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/8b0ec882-5de9-5049-95f1-fbb1059c22bb.jpg?v=1655489930&width=330",
+  "price": 650,
+  "category": "indoor",
+  "description": "A low-maintenance fern with small, bright green leaves. Prefers indirect light and moderate watering."
+},
+{
+  "name": "Peperomia 'Watermelon'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/e02322d9-a60a-576f-a091-a715e8d4f419_1800x1800_f81b6cf4-b30f-4d5f-890a-770d0bda2698.webp?v=1715618728&width=330",
+  "price": 700,
+  "category": "indoor",
+  "description": "A compact, ornamental plant with striking watermelon-patterned leaves. Prefers bright, indirect light."
+},
+{
+  "name": "Maranta 'Lemon Lime'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/edfadce6-ce25-572a-98e0-9bd3336cfc49.jpg?v=1655490695&width=330",
+  "price": 850,
+  "category": "indoor",
+  "description": "Known for its vibrant green and yellow leaves, this plant thrives in low to medium light conditions."
+},
+{
+  "name": "Alocasia Polly 'African Mask'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/6faf27fd-dcd4-5d5e-9651-0fbcd00375f2_9db1c17f-4136-4dac-95e2-5682ece8b0cf.jpg?v=1709610432&width=330",
+  "price": 1500,
+  "category": "indoor",
+  "description": "A striking plant with arrow-shaped leaves that have a deep green color with contrasting veins. Requires indirect light."
+},
+{
+  "name": "Zamioculcas Zamiifolia 'ZZ'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/57b5b271-43ab-595b-97de-8f89f97195a0.jpg?v=1711567771&width=330",
+  "price": 1000,
+  "category": "indoor",
+  "description": "A hardy plant with waxy, glossy leaves. Thrives in low light and infrequent watering."
+},
+{
+  "name": "Monstera deliciosa 'Split-Leaf'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/72431ce3-8804-5d72-be16-9abc02a6d42a_fe6821b6-e79c-465e-aea1-2e25babaa8de.jpg?v=1645043300&width=330",
+  "price": 1200,
+  "category": "indoor",
+  "description": "A popular indoor plant with large, split leaves. It requires bright, indirect light and moderate watering."
+},
+{
+  "name": "Aphelandra 'Zebra'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/c55bd9f9-f4ea-5543-9159-d8e2a6a8b09f.jpg?v=1711569138&width=330",
+  "price": 999,
+  "category": "flowering",
+  "description": "Aphelandra 'Zebra' is known for its stunning zebra-striped leaves. It adds a tropical flair to any space."
+},
+{
+  "name": "Hoya Carnosa 'Wax Plant'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/88985515-3e7f-531d-a977-faaebdac4da1.jpg?v=1711568466&width=330",
+  "price": 1200,
+  "category": "climbers",
+  "description": "Hoya Carnosa is a low-maintenance plant with waxy, fragrant flowers. Perfect for hanging baskets or trellises."
+},
+{
+  "name": "Philodendron 'Congo Rojo'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/867d7db9-917d-5b76-bd47-0bd563411b34.jpg?v=1711568604&width=330",
+  "price": 1500,
+  "category": "indoor",
+  "description": "Philodendron 'Congo Rojo' has deep red and green foliage. It's an excellent choice for indoor decor."
+},
+{
+  "name": "Philodendron 'Florida Green'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/4_PHILODENDRON_FLORIDA_GREEN_1.png?v=1708043884&width=330",
+  "price": 1300,
+  "category": "indoor",
+  "description": "Philodendron 'Florida Green' features large, glossy green leaves. It's a perfect indoor plant for low light."
+},
+{
+  "name": "Hoya 'Sweetheart'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/36f3f23a-8e9b-5ffd-8cd3-ef0c183537ce.jpg?v=1711568070&width=330",
+  "price": 950,
+  "category": "climbers",
+  "description": "Hoya 'Sweetheart' is a charming trailing plant with heart-shaped leaves. A lovely addition to any plant collection."
+},
+{
+  "name": "Dracaena 'Song of Jamaica'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/4_DRACAENA_SONG.OF.JAMAICA_TEMP_2.22.24.jpg?v=1709610475&width=330",
+  "price": 2000,
+  "category": "indoor",
+  "description": "Dracaena 'Song of Jamaica' has striking green and yellow leaves. It thrives in bright, indirect light."
+},
+{
+  "name": "Maranta 'Red Prayer Plant'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/b57fa066-fd31-5ed3-bec5-ae5d04684699.jpg?v=1655490522&width=330",
+  "price": 800,
+  "category": "flowering",
+  "description": "The Maranta 'Red Prayer Plant' is known for its vibrant red veins and its unique prayer-like leaf movement."
+},
+{
+  "name": "Chamaedorea elegans 'Parlor Palm'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/fc81adc5-d2a2-53e3-9975-869eb9959fb3.jpg?v=1655489711&width=330",
+  "price": 1100,
+  "category": "indoor",
+  "description": "Chamaedorea elegans is a low-maintenance palm, perfect for low-light conditions. Its feathery fronds add a touch of elegance."
+},
+{
+  "name": "Peperomia 'Green Bean'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/981d025e-e6e9-5de5-b721-b238af07fd99.jpg?v=1711568537&width=330",
+  "price": 600,
+  "category": "indoor",
+  "description": "Peperomia 'Green Bean' has thick, succulent-like leaves. It’s a compact plant that thrives in bright, indirect light."
+},
+{
+  "name": "Platycerium bifurcatum 'Staghorn Fern'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/3fe878c5-3e4a-5721-a12d-20d17a5cf990.jpg?v=1645043808&width=330",
+  "price": 1300,
+  "category": "indoor",
+  "description": "Platycerium bifurcatum, or Staghorn Fern, is a unique fern with antler-shaped fronds. It’s a striking plant for any home."
+},
+{
+  "name": "Fittonia 'Red'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/3_FITTONIA_RED-removebg-preview.png?v=1711568921&width=330",
+  "price": 750,
+  "category": "flowering",
+  "description": "Fittonia 'Red' has bright red veins on dark green leaves. It's an eye-catching plant that thrives in humidity."
+},
+{
+  "name": "Hedera helix 'Glacier'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/d8e89e65-d19f-5d8a-b9fc-efe4f1b3c9db.jpg?v=1655489702&width=330",
+  "price": 900,
+  "category": "climbers",
+  "description": "Hedera helix 'Glacier' is a hardy ivy with pale, variegated leaves. It’s perfect for creating cascading foliage."
+},
+{
+  "name": "Dracaena 'Tornado'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/6_DRACAENA_TORNADO_1.png?v=1711569518&width=330",
+  "price": 1800,
+  "category": "indoor",
+  "description": "Dracaena 'Tornado' features twisting, spiky leaves. It adds an exotic touch to indoor spaces."
+},
+{
+  "name": "Fittonia 'White Nerve Plant'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/4_FITTONIA_WHITE_1.jpg?v=1711494577&width=330",
+  "price": 850,
+  "category": "flowering",
+  "description": "Fittonia 'White Nerve' has beautiful white veins running through dark green leaves. It’s a vibrant addition to any room."
+},
+{
+  "name": "Sansevieria trifasciata 'Black Gold'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/f7665bbd-f56e-538f-83e2-4f57ec76b21c.jpg?v=1645044183&width=330",
+  "price": 1400,
+  "category": "indoor",
+  "description": "Sansevieria 'Black Gold' has dark green and yellow striped leaves. It’s a resilient plant that thrives on neglect."
+},
+{
+  "name": "Polystichum tsus-simense 'Korean Rock Fern'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/1-Fern-KoreanRock-4.png?v=1711568687&width=330",
+  "price": 1200,
+  "category": "indoor",
+  "description": "Polystichum 'Korean Rock Fern' has delicate, feathery fronds. It’s perfect for shaded spots in your home."
+},
+{
+  "name": "Lithops salicola 'Bacchus'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/lithops-salicola-bacchus-side.jpg?v=1721832388&width=330",
+  "price": 650,
+  "category": "succulents",
+  "description": "Lithops 'Bacchus' is a unique succulent that resembles small stones. It’s a perfect plant for dry, sunny spots."
+},
+{
+  "name": "Adenium ( Grown through seeds, Mix Color ) – Plant",
+  "price": 599,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Adenium-2-300x300.jpg",
+  "category": "flowering",
+  "description": "A beautiful flowering plant, grown from seeds with a mix of vibrant colors. Ideal for gardens and pots."
+},
+{
+  "name": "Adenium (White) Plant",
+  "price": 249,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Adenium-White-Plant-1-300x300.jpg",
+  "category": "flowering",
+  "description": "Elegant white flowers that brighten up any space. A perfect addition to your collection of flowering."
+},
+{
+  "name": "Aptenia, Heartleaf Ice Plant",
+  "price": 249,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Aptenia-Heartleaf-Ice-Plant-1-1-300x300.jpg",
+  "category": "flowering",
+  "description": "A low-maintenance plant with succulent heart-shaped leaves, perfect for sunny spots and decorative pots."
+},
+{
+  "name": "Bel Tree, Bilva Patra, Bel Patra ( Grown through seeds ) – Plant",
+  "price": 399,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Bel-Tree-Bilva-Patra-Bel-Patra-Grown-through-seeds-Plant-3-300x300.jpg",
+  "category": "flowering",
+  "description": "This plant is known for its medicinal properties. Ideal for religious and medicinal purposes."
+},
+{
+  "name": "Bird of Paradise – Plant",
+  "price": 459,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Bird-of-Paradise-Plant-3-300x300.jpg",
+  "category": "flowering",
+  "description": "A striking plant with large, tropical flowers resembling a bird's head, adding a touch of the exotic to your garden."
+},
+{
+  "name": "Bougainvillea (Pink) – Plant",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Bougainvillea-Pink-Plant-1-300x300.jpg",
+  "category": "flowering",
+  "description": "A vibrant and hardy plant that brings a burst of pink color to your garden throughout the year."
+},
+{
+  "name": "Bougainvillea Dwarf (Pink) Plant",
+  "price": 299,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Bougainvillea-Dwarf-Pink-Plant-2-300x300.jpg",
+  "category": "flowering",
+  "description": "A compact version of the traditional Bougainvillea, perfect for small spaces or container gardening."
+},
+{
+  "name": "Bryophyllum, Panfuti – Plant",
+  "price": 449,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Bryophyllum-Panfuti-Plant-2-300x300.jpg",
+  "category": "flowering",
+  "description": "A hardy plant with beautiful flowers, known for its medicinal and ornamental qualities."
+},
+{
+  "name": "Clitoria Tarnatea, Gokarna (Blue) Plant",
+  "price": 249,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Clitoria-Ternatea-Gokarna-Blue-Plant-2-300x300.jpg",
+  "category": "flowering",
+  "description": "A stunning blue flower plant that can be grown easily in any garden or as an ornamental plant in containers."
+},
+{
+  "name": "Damascus, Scented Rose – Plant",
+  "price": 245,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Scented-rose-2-300x300.jpg",
+  "category": "flowering",
+  "description": "A fragrant and beautiful rose that adds charm and elegance to any garden or home decor."
+},
+{
+  "name": "Fluorescent Freesia",
+  "price": 399,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Fluorescent-Freesia-1-300x300.jpg",
+  "category": "flowering",
+  "description": "A colorful and fragrant flower that blooms in a variety of hues, perfect for adding vibrance to your garden."
+},
+{
+  "name": "Gardenia Dwarf, Ananta Dwarf – Plant",
+  "price": 499,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Gardenia-Dwarf-Ananta-Dwarf-Plant-2-300x300.jpg",
+  "category": "flowering",
+  "description": "A small, fragrant flowering plant that thrives in pots or small garden spaces, perfect for brightening up any corner."
+},
+{
+  "name": "Anjeer, Common fig Plant",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Anjeer-Common-fig-Plant-1-300x300.jpg",
+  "category": "fruit",
+  "description": "The Common Fig plant produces sweet, nutrient-rich fruit. It grows well in both tropical and temperate climates."
+},
+{
+  "name": "Annona Squamosa, Sita Phal ( Grown through seeds ) – Plant",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Annona-Squamosa-Sita-Phal-Grown-through-seeds-Plant-1-300x300.jpg",
+  "category": "fruit",
+  "description": "Sita Phal, also known as Custard Apple, is a tropical fruit with creamy pulp. Grown from seeds, it thrives in warm climates."
+},
+{
+  "name": "Annona Squamosa, Sita Phal (Grafted) Plant",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Annona-Squamosa-Sita-Phal-Grafted-Plant-1-300x300.jpg",
+  "category": "fruit",
+  "description": "This grafted Sita Phal plant produces fruit faster than seed-grown ones, offering a delicious tropical fruit for your garden."
+},
+{
+  "name": "Banana – G9, Kela – Plant",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Banana-G9-Kela-Plant-3-300x300.jpg",
+  "category": "fruit",
+  "description": "G9 Banana plants yield large, sweet bananas in a short amount of time. Ideal for small gardens or containers."
+},
+{
+  "name": "Morus, Shahtoot, Mulberry (Small Leaves)",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Shahtoot-Mulberry-Tuti-Small-Leaves-Plant-3-300x300.jpg",
+  "category": "fruit",
+  "description": "Mulberry plants produce sweet berries that are perfect for making jams, pies, or enjoying fresh. This variety has small leaves."
+},
+{
+  "name": "Ornamental Orange (Green Leaves) Plant",
+  "price": 449,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Ornamental-Orange-Green-Leaves-Plant-1-1-300x300.jpg",
+  "category": "fruit",
+  "description": "The Ornamental Orange tree produces small decorative fruits and brightens up any garden with its vibrant green leaves."
+},
+{
+  "name": "Pomegranate, Annar, Anar – Plant",
+  "price": 399,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2021/11/Pomegranate-plant-300x300.jpg",
+  "category": "fruit",
+  "description": "Pomegranate plants produce delicious, tangy fruit with numerous health benefits. Ideal for tropical and subtropical climates."
+}, {
+  "name": "Aloe Vera Plant",
+  "price": 299,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/aloe-vera-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Aloe Vera is known for its soothing and healing properties. It requires minimal care and can thrive indoors."
+},
+{
+  "name": "Amla (Big Fruit, Grown through seeds) – Plant",
+  "price": 299,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Amla-Big-Fruit-Grown-through-seeds-Plant-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Amla, or Indian Gooseberry, is rich in Vitamin C. This plant is great for immunity and overall health."
+},
+{
+  "name": "Ashwagandha – Plant",
+  "price": 249,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Ashwagandha-Plant-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Ashwagandha is widely used for stress relief and improving stamina. It is easy to grow and low-maintenance."
+},
+{
+  "name": "Bel Tree, Bilva Patra, Bel Patra (Grown through seeds) – Plant",
+  "price": 399,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Bel-Tree-Bilva-Patra-Bel-Patra-Grown-through-seeds-Plant-3-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "The Bel Tree is sacred in Hindu culture and used in traditional medicine. Its leaves are beneficial for health."
+},
+{
+  "name": "Citronella, Odomas – Plant",
+  "price": 249,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Odomas-plant-2-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Citronella is a natural mosquito repellent and has a pleasant aroma. It grows well in sunny areas."
+},
+{
+  "name": "Cloves Plant",
+  "price": 299,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Cloves-Plant-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Clove plants are valued for their aromatic flower buds used in spices. The plant has medicinal benefits too."
+},
+{
+  "name": "Costus Igneus, Insulin – Plant",
+  "price": 240,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Insulin-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Commonly known as the 'Insulin Plant,' it is beneficial for managing blood sugar levels. Easy to grow at home."
+},
+{
+  "name": "Curry Leaves, Kadi Patta, Murraya koenigii, Meetha Neem – Plant",
+  "price": 249,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Curry-Leaves-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Curry Leaves add flavor to dishes and are rich in nutrients. It’s a staple plant in Indian kitchens."
+},
+{
+  "name": "Ixora Long, Singapuri Ixora (Pink) Plant",
+  "price": 449,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/2017-08-11-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "The Ixora plant is known for its beautiful pink flowers. It also has antioxidant properties and adds beauty to gardens."
+},
+{
+  "name": "Juhi, Jasminum Auriculatum – Plant",
+  "price": 349,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Juhi-Jasminum-Auriculatum-Plant-1-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Juhi is a fragrant jasmine plant used in Ayurvedic treatments. Its flowers are used for aroma therapy and decoration."
+},
+{
+  "name": "Krishna Tulsi, Tulsi (Black) – Plant",
+  "price": 245,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/tulsi-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Krishna Tulsi is a variety of holy basil known for immunity-boosting benefits. It’s a revered plant in Hindu culture."
+},
+{
+  "name": "Lemon Grass – Plant",
+  "price": 199,
+  "imgUrl": "https://www.lilplants.com/wp-content/uploads/2017/08/Lemon-grass-3-300x300.jpg",
+  "category": "Medicinal Plant",
+  "description": "Lemongrass is a fragrant herb used in teas and cuisine. It has calming properties and repels insects naturally."
+},{
+  "name": "MYRTILLOCACTUS GEOMETRIZANS F. CRISTATA 'DINOSAUR BACK'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Myrtillocactus-geometrizans-cristata.jpg?v=1542934138&width=375",
+  "category": "cacti",
+  "price": 450,
+  "description1": "Known for its unique, wavy, dinosaur-like crest shape, this cactus adds an exotic look.",
+  "description2": "Perfect for indoor decor and low-maintenance plant collections."
+},
+{
+  "name": "ECHINOPSIS SUBDENUDATA 'DOMINOS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/echinopsis-domino-cactus.jpg?v=1478661144&width=375",
+  "category": "cacti",
+  "price": 300,
+  "description1": "This cactus features white speckled spots resembling domino patterns.",
+  "description2": "Known for its night-blooming flowers with a soft fragrance."
+},
+{
+  "name": "ECHINOPSIS ANCISTROPHORA SSP. ARACHNACANTHA",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/lobivia-arachnacantha.jpg?v=1587916097&width=375",
+  "category": "cacti",
+  "price": 350,
+  "description1": "Small cactus with dense, spider-like spines, ideal for compact spaces.",
+  "description2": "Produces stunning, colorful blooms during the growing season."
+},
+{
+  "name": "OPUNTIA RUFIDA F. MONSTROSA 'MINI CINNAMON CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/optunia-rufiada-minima-mini-cinnamon-cactus.jpg?v=1575056490&width=375",
+  "category": "cacti",
+  "price": 275,
+  "description1": "This mini cactus has unique cinnamon-colored spines, giving it a warm appearance.",
+  "description2": "Popular for its small size and eye-catching color in succulent arrangements."
+},
+{
+  "name": "MAMMILLARIA SCHWARZII",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/mammillaria-schwarzii.jpg?v=1509724388&width=375",
+  "category": "cacti",
+  "price": 320,
+  "description1": "Compact cactus with dense spines and delicate pink flowers.",
+  "description2": "A low-maintenance option for sunny windowsills or rock gardens."
+},
+{
+  "name": "MAMMILLARIA BOMBYCINA 'SILKEN PINCUSHION'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/mammillaria-silken-pincusion.png?v=1511375020&width=375",
+  "category": "cacti",
+  "price": 290,
+  "description1": "Features soft, hair-like spines that resemble a silken pincushion.",
+  "description2": "Ideal for cactus enthusiasts who appreciate unique textures."
+},
+{
+  "name": "GYMNOCALYCIUM MIHANOVICHII 'GRAFTED MOON CACTUS' PURPLE",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/Gymnocalycium-mihanovichii-_Grafted-Moon-Cactus---Purple_-2.jpg?v=1712880827&width=375",
+  "category": "cacti",
+  "price": 350,
+  "description1": "This grafted cactus displays a stunning purple hue on its crown.",
+  "description2": "A popular choice for adding a splash of color to any cactus collection."
+},
+{
+  "name": "MAMMILLOYDIA CANDIDA 'SNOWBALL CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/mammillaria-candida-snowball-cactus-main.jpg?v=1670955755&width=375",
+  "category": "cacti",
+  "price": 270,
+  "description1": "Named for its snowball-like appearance, this cactus has a soft white texture.",
+  "description2": "An attractive plant that looks great on windowsills or in small pots."
+},
+{
+  "name": "MAMMILLARIA GRACILIS FRAGILIS 'THIMBLE CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/mammillaria-thimble-cactus.jpg?v=1478661126&width=375",
+  "category": "cacti",
+  "price": 240,
+  "description1": "The thimble cactus is known for its miniature size and white spines.",
+  "description2": "An easy-care cactus that spreads with small offsets over time."
+},
+{
+  "name": "OPUNTIA MICRODASYS VAR. ALBOSPINA 'WHITE BUNNY EARS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Opuntia-albata-Angelwing-2.png?v=1709231085&width=375",
+  "category": "cacti",
+  "price": 300,
+  "description1": "With its white, fluffy 'ears,' this cactus mimics the look of a bunny.",
+  "description2": "Ideal for those looking for a playful yet easy-to-grow cactus."
+},
+{
+  "name": "MAMMILLARIA GLASSII 'DULCES NOMBRES'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Mammillaria_glassii_Dulces_Nombres.jpg?v=1553380661&width=375",
+  "category": "cacti",
+  "price": 265,
+  "description1": "A small cactus with delicate pink flowers and densely packed spines.",
+  "description2": "Perfect for adding color to small succulent displays."
+},
+{
+  "name": "TEPHROCACTUS ARTICULATUS VAR. INERMIS 'PINE CONE CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/tephrocactus-pinecone.jpg?v=1712205216&width=375",
+  "category": "cacti",
+  "price": 320,
+  "description1": "With segments resembling pine cones, this cactus has a unique structure.",
+  "description2": "Easy to propagate as it grows new sections over time."
+},
+{
+  "name": "MAMMILLARIA SCHIEDEANA",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/mammillariaschiedeana.jpg?v=1706484716&width=375",
+  "category": "cacti",
+  "price": 310,
+  "description1": "Characterized by its tiny, clustered stems and white spines.",
+  "description2": "A charming, low-water cactus that blooms with small white flowers."
+},
+{
+  "name": "CEREUS PERUVIANUS MONSTROSE",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/cereus-peruvianus-monstrose.jpg?v=1497033313&width=375",
+  "category": "Cacti",
+  "price": 750,
+  "description": "A unique cactus with twisted, irregular forms, making it a standout in any collection.Known for its dramatic shape and hardy nature, this cactus adds intrigue and beauty."
+},
+{
+  "name": "TEPHROCACTUS ARTICULATUS VAR. PAPYRACANTHUS 'PAPER SPINE CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/tephrocactus-articulatus-paper-spine-cactus.png?v=1509553059&width=375",
+  "category": "Cacti",
+  "price": 500,
+  "description": "Named for its paper-thin spines, this cactus has a soft, architectural appearance.Perfect for minimalist decor, this cactus thrives in bright, indirect sunlight."
+},
+{
+  "name": "OPUNTIA MONACANTHA VARIEGATA 'VARIEGATED JOSEPH'S COAT'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/opuntia-josephs-coat-variegata.jpg?v=1712726683&width=375",
+  "category": "Cacti",
+  "price": 600,
+  "description": 
+    "With striking variegated pads, this cactus has a colorful, eye-catching appeal.Easy to care for, the Variegated Joseph’s Coat adds a pop of color to any cactus garden."
+},
+{
+  "name": "MAMMILLARIA POLYTHELE 'TOLUCA'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/files/mammillariatoluca.jpg?v=1719356973&width=375",
+  "category": "Cacti",
+  "price": 420,
+  "description": 
+    "This beautiful cactus features delicate spines and a symmetrical, rounded shape.A resilient species, perfect for beginners and cacti collectors alike."
+},
+{
+  "name": "MAMMILLARIA GRACILIS 'ORUGA' GRAFTED",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Mammillariagraciliscv.orugagrafted.jpg?v=1663699785&width=375",
+  "category": "Cacti",
+  "price": 550,
+  "description": 
+    "A grafted cactus with slender, cylindrical segments for a unique aesthetic.Great for indoor and outdoor displays, this cactus is low-maintenance and drought-resistant."
+},
+{
+  "name": "ASTROPHYTUM CAPRICORNE 'GOAT'S HORN CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Astrophytum-capricorne-var-niveum.jpg?v=1600790251&width=375",
+  "category": "Cacti",
+  "price": 480,
+  "description": 
+    "Named for its horn-like spines, this cactus is known for its exotic and striking look.A popular choice among collectors, it flourishes with bright sunlight and minimal watering."
+},
+{
+  "name": "OREOCEREUS TROLLII 'OLD MAN OF THE ANDES'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/oreocereus-trollii-old-man-of-the-andes.jpg?v=1582819538&width=375",
+  "category": "Cacti",
+  "price": 600,
+  "description": 
+    "Covered in white woolly hairs, this cactus is reminiscent of the Andes mountains.A hardy cactus that can withstand cool temperatures and adds texture to any arrangement."
+},
+{
+  "name": "MAMMILLARIA ELONGATA 'LADYFINGER CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Mammillaria-elongata-pink-nymph.jpg?v=1521409146&width=375",
+  "category": "Cacti",
+  "price": 330,
+  "description": 
+    "Named for its finger-like stems, this cactus is both attractive and easy to grow.Perfect for hanging pots, as its delicate stems cascade over the edge gracefully."
+},
+{
+  "name": "OPUNTIA MICRODASYS VAR. PALLIDA 'BUNNY EARS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/opuntia-microdasys-bunny-ears.jpg?v=1522025844&width=375",
+  "category": "Cacti",
+  "price": 320,
+  "description": 
+    "The Bunny Ears cactus has charming, pad-like segments that resemble rabbit ears.Great for beginners, this cactus has low water needs and adds character to any space."
+
+},
+{
+  "name": "CEREUS REPANDUS F. MONSTROSUS 'PETRA'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/cereus-peruvianus-curiosity-plant.png?v=1542670484&width=375",
+  "category": "Cacti",
+  "price": 720,
+  "description": 
+    "A twisted, mutant form of the Cereus cactus with an otherworldly appearance.Ideal for cactus enthusiasts looking for unique and unusual plants."
+},
+{
+  "name": "MAMMILLARIA RHODANTHA SSP. PRINGLEI",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/mammillaria-pringlei.jpg?v=1503274859&width=375",
+  "category": "Cacti",
+  "price": 390,
+  "description": 
+    "A colorful cactus with reddish spines that form a beautiful contrast.Perfect for bright windowsills, it’s both decorative and low-maintenance."
+},
+{
+  "name": "STENOCEREUS HOLLIANUS F. CRISTATA",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Stenocereus-hollianus-cristata.jpg?v=1499608491&width=375",
+  "category": "Cacti",
+  "price": 820,
+  "description": 
+    "This crested cactus has unusual, fan-like formations, adding visual interest to any collection.Thrives in full sun and makes a fascinating centerpiece with its unique shape."
+},
+{
+  "name": "MAMMILLARIA SPINOSISSIMA 'RED-HEADED IRISHMAN'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/Mammillaria-red-headed-irishman.jpg?v=1514909061&width=375",
+  "category": "Cacti",
+  "price": 480,
+  "description": 
+    "Easily recognized by its dense spines and red-tipped color, this cactus is eye-catching.An ideal choice for sunny spots, it brings vibrant color to any space."
+},
+{
+  "name": "PARODIA SCOPA 'SILVER BALL CACTUS'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/notocactus-silver-ball-cactus.jpg?v=1478661132&width=375",
+  "category": "Cacti",
+  "price": 430,
+  "description": 
+    "A spherical cactus with a soft silver appearance and golden spines.This low-maintenance cactus is perfect for beginners and brightens up any setting."
+},
+{
+  "name": "MAMMILLARIA ELONGATA 'COPPER KING'",
+  "imgUrl": "https://leafandclay.co/cdn/shop/products/mammillaria-copper-king.jpg?v=1478661133&width=375",
+  "category": "Cacti",
+  "price": 340,
+  "description": 
+    "Known for its copper-toned spines, this cactus is both decorative and easy to care for.A great choice for indoor cactus gardens, adding warmth and texture to the display."
+}
+]
