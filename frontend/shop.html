@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop</title>
+    <link rel="stylesheet" href="shop.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <dialog id="cartModal" class="cart-modal">
+    </dialog>
+    <section>
+        <div class="top">
+            <div class="Discount">
+                <h1>BIG SALE</h1>
+                <p>
+                    Discount <span style="color:#79A206;">20% off </span>For Members
+                </p>
+                <button>Discover Now</button>
+            </div>
+        </div>
+    </section>
+    <div class="topbar">
+        <div class="home">
+            <h1><a href='index.html'>Home</a></h1>
+        </div>
+        <div class="topbox">
+            <div class="box">
+                <div class="buttons">
+                    <button data-view="grid-3"><i class="fa fa-th" aria-hidden="true"></i></button>
+                    <button data-view="grid-4"><i class="fa fa-th-large" aria-hidden="true"></i></button>
+                    <button data-view="grid-2"><i class="fa fa-bars" aria-hidden="true"></i></button>
+                </div>
+                <div class="sort">
+                    <label for="sort">Sort By:</label>
+                    <select id="sort">
+                        <option value="alphabet">Alphabetically, A-Z</option>
+                        <option value="price-low">Price, low to high</option>
+                        <option value="price-high">Price, high to low</option>
+                    </select>
+                </div>
+                <div class="info">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <i class="fa fa-shopping-cart" onclick="openModal()"
+            style="color:black; font-size: 27px; margin-right:2rem; cursor: pointer;"></i>
+    </div>
+    <div class="container">
+        <div class="sidebar">
+            <div class="card">
+                <div class="head">
+                    <h3>Categories</h3>
+                </div>
+                <div class="choice">
+                    <ul class="categories">
+                        <li data-category="climbers">Climbers & Creepers</li>
+                        <li data-category="flowering">Flowering Plants</li>
+                        <li data-category="fruit">Fruit Plants</li>
+                        <li data-category="indoor">Indoor Plants</li>
+                        <li data-category="medicinal">Medicinal Plants</li>
+                        <li data-category="cacti">Cacti</li>
+                        <li data-category="succulents">Succulents</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="head">
+                    <h3>Price</h3>
+                </div>
+                <div class="content">
+                    <input type="range" min="199" max="5000" value="5000" class="accent" id="price-range">
+                    <div class="filter1">
+                        <button id="filter-button">FILTER</button>
+                        <p id="price-display">Price: ₹199 - ₹5000</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main">
+            <div class="grid" id="product-list"></div>
+            <div class="next">
+                <ul>
+                    <li><button></button></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="marquee">
+        <div class="marquee-element">
+            <marquee>
+                <ul>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="mark"><img src="../images/f1.png">
+                            <p>plants grow people</p>
+                        </div>
+                    </li>
+                </ul>
+            </marquee>
+        </div>
+    </div>
+    <div class="footer">
+        <div id="footer-container"></div>
+    </section>
+</body>
+<script>
+    fetch('http://localhost:3000/footer')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('footer-container').innerHTML = data;
+        })
+        .catch(error => console.error('Error fetching footer:', error));
+</script>
+</html>

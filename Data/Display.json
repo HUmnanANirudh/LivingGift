@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "name": "Lucky Bonsai Plant",
+        "image": "../images/o1.png",
+        "price": 1529,
+        "originalPrice": 2999,
+        "tags": ["Lucky", "Fast Growing"],
+        "link": "shop.html"
+      },
+      {
+        "name": "Aglaonema Lipstick Plant",
+        "image": "../images/o2.png",
+        "price": 1089,
+        "originalPrice": 1499,
+        "tags": ["Air Purifying", "Indoor"],
+        "link": "shop.html"
+      },
+      {
+        "name": "Peacock Plant",
+        "image": "../images/s3.png",
+        "price": 1199,
+        "originalPrice": 1299,
+        "tags": ["Low Maintenance", "Indoor"],
+        "link": "shop.html"
+      }
+    ]
+  }
+  
